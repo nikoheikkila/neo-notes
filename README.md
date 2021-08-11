@@ -8,7 +8,7 @@ This is my personal notetaking application composed with UNIX philosophy in mind
 - Glow (`glow`) for previewing the Markdown notes on the listing view
 - Ripgrep (`rg`) for searching
 
-The tools will remain locked to these for the foreseaable future because making every software configurable is wasteful. Your mileage may vary so do fork this repo and modify the script as needed.
+The tools will remain locked to these for the foreseeable future because making every software configurable is wasteful. Your mileage may vary so do fork this repo and modify the script as needed.
 
 ## Installation
 
@@ -16,7 +16,6 @@ Having installed the aforementioned tools, you should clone the repository and s
 
 ```bash
 # Copying
-
 cp -a note.fish $HOME/.config/fish/functions/
 
 # Symlinking
